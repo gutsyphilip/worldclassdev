@@ -11,7 +11,7 @@ Previously, I architected and led frontend engineering efforts at Kudi Inc. wher
 Before Kudi, I founded Shopable ( a mobile app for selling on multiple social media platforms.).
 
 - 🤔 I’m looking for help with a React project of mine(Need an intern).
-- 🔭 I’m currently working on a platform for Creathors to share, showcase and monetize their skills 
+- 🔭 I’m currently working on a platform for creators to share, showcase and monetize their skills 
 <!--
 **worldclassdev/worldclassdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
